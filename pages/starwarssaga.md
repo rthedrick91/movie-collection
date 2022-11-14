@@ -10,7 +10,7 @@ cloud-fields: site.data.theme.subjects-fields
 
 ## In A Galaxy Not So Far Away
 
-### How The Star Wars Saga Shaped My Love Of Movies
+### How the Star Wars Saga shaped my love of movies
 
 ![Star Wars box set](/movie-collection/objects/starwarsexhibit1)
 
