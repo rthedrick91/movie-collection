@@ -12,7 +12,7 @@ cloud-fields: site.data.theme.subjects-fields
 
 ### How the Star Wars Saga shaped my love of movies
 
-![Star Wars box set](/movie-collection/objects/starwarsexhibit1.jpg)
+<div align="center">![Star Wars box set](/movie-collection/objects/starwarsexhibit1.jpg)</div>
 
 This box set of Star Wars: The Skywalker Saga holds a special place in my heart, even though you can stream all the movies online these days. The first movie I ever remember seeing is The Empire Strikes Back. I was probably around five or six years old at the time and I remember being completely captivated by Luke flying the snowspeeder during the attack on Hoth. From that moment on I was hooked. I watched the original trilogy on repeat for most of the next year or two. But more than anything was who I got to watch the movies with. The reason I was able to watch the movies on repeat was because my father owned the VHS box set of the trilogy. Often times he would come home from work at night and see that I was watching Return of the Jedi (my favorite) or one of the other films, and even though he would be tired from a long day at work he would sit down and finish them movie with me. These were always movie memories that stood out to me and what made me a lifelong fan of not just movies, but Star Wars in particular.   
 
