@@ -1,3 +1,4 @@
+---
 title: Quentin Tarantino
 layout: page
 permalink: /tarantino.html
