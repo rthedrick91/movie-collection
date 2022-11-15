@@ -22,7 +22,7 @@ Then in 1999, when I was just eight-years-old, The Phantom Menace came out and m
 
 ![The prequel trilogy](/movie-collection/objects/starwarsexhibit3.jpg)
 
-However, just another short three years later, when I was 14-years-old, seeing Revenge of the Sith held a different meaning. The month before the movie was released my mother was diagnosed with ovarian cancer and a couple of weeks later underwent surgery. The surgery was successful and my mother has been cancer free since, however, for the two weeks leading up to the movie's release my mother was recovering in the hospital and my dad stayed by her side the whole time. Although, on the day the movie came out my dad took a few hours away from my mom to take me to see the movie. I had not seen him for days and the movie was an opportunity for both of us to escape into another galaxy for a couple of hours. I still have my movie ticket from that day.
+However, just another three years later, when I was 14-years-old, seeing Revenge of the Sith held a different meaning. The month before the movie was released my mother was diagnosed with ovarian cancer and a couple of weeks later underwent surgery. The surgery was successful and my mother has been cancer free since, however, for the two weeks leading up to the movie's release my mother was recovering in the hospital and my dad stayed by her side the whole time. Although, on the day the movie came out my dad took a few hours away from my mom to take me to see the movie. I had not seen him for days and the movie was an opportunity for both of us to be with each other and escape into another galaxy for a couple of hours. I still have the movie tickets from that day.
 
 ![Movie ticket](/movie-collection/objects/starwarsexhibit4.jpg)
 
@@ -30,4 +30,4 @@ We thought Revenge of the Sith would be the last time we would ever see a new St
 
 ![The sequel trilogy](/movie-collection/objects/starwarsexhibit5.jpg)
 
-This box set represents more to me than just a collection of films. It represents some of my most cherished movie memories. Today, when I feel the urge to watch one of these movies I just turn on Disney+ and stream them, but it is still important for me to own physical copies of the complete collection. It reminds me of the VHS box set that started it all more than twenty years ago.  
+This box set represents more to me than just a collection of films. It represents some of my most cherished movie memories. Today, when I feel the urge to watch one of these movies I just turn on Disney+ and stream it, but it is still important for me to own physical copies of the complete collection. It reminds me of the VHS box set that started it all twenty-five years ago.  
