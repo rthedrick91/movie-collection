@@ -14,17 +14,12 @@ credits: true
 
 ## Staff
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+Ryan Hedrick is the sole staff involved in creating this CollectionBuilder site. Ryan is a second year MLS student at Indiana University Bloomington. Also, Ryan is an avid film buff, which is why this collection is based on items in his own personal movie collection. This CollectionBuilder site was built as part of a final project assignment for the Digital Libraries class at KU Bloomingotn.
 
 ## Acknowledgements
 
+I would like to thank Professor John Walsh and Associate Instructor Alex Wingate for their continued assistance and availability when I needed help with setting up this collection. I would also like to thank Olivia Wikle and Devin Becker from the Univerity of Idaho and the CollectionBuilder team for speaking to our class earlier this semester and making themselves available to answer any questions my classmates or I had regarding the use of CollectionBuilder.
 
+## Metadata Standards
 
-## Metadata Standars
+For this collection 14 metadata feilds were used to describe the objects included in this collection. Of the fields, four of them (objectid, filename, title, and format) are required CollectionBilder fields. Another three fields (date, description, and language) were taken directly from Dublin Core Elements. The remaining seven fields are custom fields that I created specifically for this collection. All seven of those fields can be mapped to Dublin Core.
