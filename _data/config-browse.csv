@@ -4,5 +4,5 @@ creator,Creator,,,
 subject,,true
 location,,true
 director,Director,true,,Director
-topactors,Actors,true
+topactors,Actors
 genre,Genre,true
