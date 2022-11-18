@@ -14,7 +14,7 @@ credits: true
 
 ## Staff
 
-Ryan Hedrick is the sole staff involved in creating this CollectionBuilder site. Ryan is a second year MLS student at Indiana University Bloomington. Also, Ryan is an avid film buff, which is why this collection is based on items in his own personal movie collection. This CollectionBuilder site was built as part of a final project assignment for the Digital Libraries class at KU Bloomingotn.
+Ryan Hedrick is the sole staff involved in creating this CollectionBuilder site. Ryan is a second year MLS student at Indiana University Bloomington. Also, Ryan is an avid film buff, which is why this collection is based on items in his own personal movie collection. This CollectionBuilder site was built as part of a final project assignment for the Digital Libraries class at IU Bloomington.
 
 ## Acknowledgements
 
@@ -22,7 +22,7 @@ I would like to thank Professor John Walsh and Associate Instructor Alex Wingate
 
 ## Metadata Standards
 
-For this collection 14 metadata fields were used to describe the objects included in this collection. Of the fields, four of them (objectid, filename, title, and format) are required CollectionBilder fields. Another three fields (date, description, and language) were taken directly from Dublin Core Elements. The remaining seven fields are custom fields that I created specifically for this collection. All seven of those fields can be mapped to Dublin Core.
+For this collection 13 metadata fields were used to describe the objects included in this collection. Of the fields, five of them (objectid, filename, title, format, and subject) are required CollectionBilder fields. Another three fields (date, description, and language) were taken directly from Dublin Core Elements. The remaining five fields are custom fields that I created specifically for this collection. All five of those fields can be mapped to Dublin Core.
 ### Metadata Elements
 **ObjectID - required, 1 value allowed**
 
@@ -40,7 +40,7 @@ Examples: goodfellas_1990.jpg, scottpilgrim_2010.jpg, starwars_1977.jpg
 
 Format refers to the format of the file of each object being uploaded to the collection. According to CollectionBuilder documentation, “the input for this field should be structured according to MIME type standards, consisting of a type and a subtype concatenated with a slash (/) between them.”
 
-Examples: image/jpeg
+Example: image/jpeg
 
 **Title - required, 1 or more value(s) allowed**
 
@@ -54,7 +54,7 @@ The description element includes a short description of each film. The descripti
 
 **Director - required, 1 or more value(s) allowed**
 
-Description: The director element includes the name of the director(s) that directed the film. This information will be taken from the credits of the film. The name of the director will be formatted with all proper grammar and spacing.
+The director element includes the name of the director(s) that directed the film. This information will be taken from the credits of the film. The name of the director will be formatted with all proper grammar and spacing.
 
 Examples: Martin Scorsese, Edgar Wright, George Lucas
 
