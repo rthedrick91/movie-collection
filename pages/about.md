@@ -8,9 +8,9 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/objects/newerbanner.jpg" heading="About this Archive" %}
+{% include feature/jumbotron.html objectid="/objects/newerbanner.jpg" heading="About this Collection" text=false %}
 
-{% include feature/nav-menu.html sections="Staff;Acknowledgements;Metadata Standard" %}
+{% include feature/nav-menu.html sections="Staff;Acknowledgements;Metadata Standards" %}
 
 ## Staff
 
@@ -22,4 +22,4 @@ I would like to thank Professor John Walsh and Associate Instructor Alex Wingate
 
 ## Metadata Standards
 
-For this collection 14 metadata feilds were used to describe the objects included in this collection. Of the fields, four of them (objectid, filename, title, and format) are required CollectionBilder fields. Another three fields (date, description, and language) were taken directly from Dublin Core Elements. The remaining seven fields are custom fields that I created specifically for this collection. All seven of those fields can be mapped to Dublin Core.
+For this collection 14 metadata fields were used to describe the objects included in this collection. Of the fields, four of them (objectid, filename, title, and format) are required CollectionBilder fields. Another three fields (date, description, and language) were taken directly from Dublin Core Elements. The remaining seven fields are custom fields that I created specifically for this collection. All seven of those fields can be mapped to Dublin Core.
