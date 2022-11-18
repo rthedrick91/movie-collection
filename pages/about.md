@@ -18,7 +18,7 @@ Ryan Hedrick is the sole staff involved in creating this CollectionBuilder site.
 
 ## Acknowledgements
 
-I would like to thank Professor John Walsh and Associate Instructor Alex Wingate for their continued assistance and availability when I needed help with setting up this collection. I would also like to thank Olivia Wikle and Devin Becker from the Univerity of Idaho and the CollectionBuilder team for speaking to our class earlier this semester and making themselves available to answer any questions my classmates or I had regarding the use of CollectionBuilder.
+I would like to thank Professor John Walsh and Associate Instructor Alex Wingate for their continued assistance and availability when I needed help with setting up this collection. I would also like to thank Olivia Wikle and Devin Becker from the Univerity of Idaho and the CollectionBuilder team for speaking to our class earlier in the semester and making themselves available to answer any questions my classmates or I had regarding the use of their CollectionBuilder framework.
 
 ## Metadata Standards
 
